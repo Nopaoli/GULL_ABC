@@ -1,0 +1,6 @@
+/scratch/project_2000465/BIRD/FSC/mtDNA/RI
+use_interf_settings
+./RI_1768_1.arp
+0
+0
+end

@@ -1,0 +1,13 @@
+// Priors and rules file
+// *********************
+
+[PARAMETERS]
+//#isInt? #name   #dist.#min  #max
+//all Ns are in number of haploid individuals
+1  NPOP1		unif	100	 50000	 output
+1  NPOP2		unif	100	 50000	 output
+0  RSANC	unif	0.01	 100	 output
+1  T1	unif 25000	 500000	 output
+0  MUTRATE   unif     0.000000067     0.00000017 output
+[RULES]
+
