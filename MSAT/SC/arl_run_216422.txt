@@ -1,0 +1,6 @@
+/scratch/project_2000465/BIRD/FSC/MODELS/SC
+use_interf_settings
+./SC_5113_1.arp
+0
+0
+end

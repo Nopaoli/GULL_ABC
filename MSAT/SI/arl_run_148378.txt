@@ -1,0 +1,6 @@
+/scratch/project_2000465/BIRD/FSC/MODELS/SI
+use_interf_settings
+./SI_5667_1.arp
+0
+0
+end
